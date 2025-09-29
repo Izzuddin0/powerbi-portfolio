@@ -2,7 +2,7 @@
 
 Welcome to my Power BI portfolio!  
 Here, I showcase a collection of interactive dashboards I’ve built to analyze real-world data and uncover insights.  
-Each project includes a Power BI file (.pbix), screenshots, and a project description.  
+Each project includes a Power BI file (.pbix), screenshots, and a project overview.  
 ---
 🔹 Projects
 1.  [Diabetes Analytics Dashboard)
